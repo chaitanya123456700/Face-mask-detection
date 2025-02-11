@@ -1,0 +1,1 @@
+The Face Mask Detection System is an AI-powered application that utilizes Convolutional Neural Networks (CNNs) to classify individuals as wearing a face mask or not. The system is designed to enhance public safety by enabling automated real-time monitoring of mask compliance in crowded spaces, such as hospitals, offices, and public transportation.
